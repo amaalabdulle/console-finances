@@ -16,7 +16,7 @@ This is how the code should display:
 ![alt text](/starter/images/code.png)
 
 
-Link to deployed website: https://amaalabdulle.github.io/bootstrap-portfolio/
+Link to deployed website: https://amaalabdulle.github.io/console-finances/
 
 ## Credits
 
