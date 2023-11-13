@@ -12,7 +12,7 @@ No steps required to install project.
 You can directly view the financal records of the company by opening the index.html file in chrome, right-clicking, and clicking inspect. From there you should navigate to console where the financal records should be displayed.
 
 This is how the code should display:
-g
+
 ![alt text](/starter/images/code.png)
 
 
