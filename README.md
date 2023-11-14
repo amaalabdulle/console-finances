@@ -1,7 +1,7 @@
 # console-finances
 
 ## Description
-In this weeks challenges, I made a new portfolio largely composed of bootstrap elements. I used various bootstrap components such as navbar, jumbotrons/headers, and cards. These all came with built in responsiveness which was extremely ideal.
+In this weeks challenges, I created code to analyse the financal records of a company. This was my first time using javascript but all the necessary information required for this projected can be viewed in the code. 
 
 ## Installation
 
