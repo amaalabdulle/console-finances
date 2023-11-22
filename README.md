@@ -13,7 +13,7 @@ You can directly view the financal records of the company by opening the index.h
 
 This is how the code should display:
 
-![alt text](/starter/images/code.png)
+![alt text](/images/code.png)
 
 
 Link to deployed website: https://amaalabdulle.github.io/console-finances/
